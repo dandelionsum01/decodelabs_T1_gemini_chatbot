@@ -50,7 +50,5 @@ calling Gemini. Nothing crashes without a key.
 ## Extend it
 
 - Add more entries to the `RULES` dict.
-- Change `GEMINI_MODEL` in `.env` (e.g. to a different Gemini model) if you
-  have access to one.
 - Swap the `SYSTEM_INSTRUCTION` string to give the bot a different
   personality.
